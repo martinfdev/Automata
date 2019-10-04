@@ -1,0 +1,12 @@
+-------AFN---------
+Alfabeto [a, b]
+Estado inicial 0
+Conjutos de estados de aceptacion [7]
+Conjunto de Estados [0, 1, 2, 3, 4, 5, 6, 7]
+Conjunto de transiciones [(0-ε-1), (0-ε-7)]-[(1-ε-4), (1-ε-2)]-[(2-b-3)]-[(3-ε-6)]-[(4-a-5)]-[(5-ε-6)]-[(6-ε-1), (6-ε-7)]-[]-
+Lenguaje r: b a
+Cadena w ingresada: aaaa
+Resultado: null
+
+Tiempo Creación: 153183.0 ns
+Tiempo Simulacion: 23556.0 ns
