@@ -1,6 +1,6 @@
 digraph automata_finito {
 	rankdir=LR;
-	graph [label="\d", labelloc=t, fontsize=20]; 
+	graph [label="d", labelloc=t, fontsize=20]; 
 	node [shape=doublecircle, style = filled,color = mediumseagreen]; 23;
 	node [shape=circle];
 	node [color=midnightblue,fontcolor=white];
