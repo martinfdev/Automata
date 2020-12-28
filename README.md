@@ -1,1 +1,2 @@
-# FProyecto2
+# Automata
+![Automata](GeneracionAutomata/PNG/Automata.png)
