@@ -1,2 +1,2 @@
 # Automata
-![Automata](GeneracionAutomataa/PNG/AFN.png)
+![Automata](/GeneracionAutomatas/PNG/AFN.png)
